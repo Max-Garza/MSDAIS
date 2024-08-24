@@ -1,3 +1,4 @@
+#CONTAINER
 # MSDAIS
 ## DESCRIPTION
 A collection of .md files documenting every concept taught in Texas State University's MS Data Analytics and Information Systems program circa Fall 2024.

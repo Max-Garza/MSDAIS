@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "028313d966211232",
+        "id": "a58d99fff829a200",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6a75796f4b92b9",
+            "id": "5a758ccf06417afb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.0.0. Permanent School Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.0.0. Permanent School Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.0.0. Permanent School Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.0.0. Permanent School Notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,11 +136,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a6a75796f4b92b9",
+  "active": "5a758ccf06417afb",
   "lastOpenFiles": [
+    "Variance.md",
+    "Variable.md",
+    "1.1.1. Analytics.md",
+    "Metrics Constituting Measures of Spread.md",
+    "Measures of Spread.md",
+    "Percentile.md",
+    "Median.md",
+    "Population Mean.md",
+    "Measures of Position.md",
+    "Sample Mean.md",
+    "Mean.md",
+    "README.md",
+    "Population Variance.md",
+    "Sample Variance.md",
+    "Types of Variance.md",
+    "1.0.0. Permanent School Notes.md",
     "1.3.2. Optimization for Business Analytics.md",
     "2.3.2. Optimization for Business Analytics.md",
     "2.3.1. Business Statistics.md",
@@ -156,28 +165,12 @@
     "1.1.2. Computing for Data Analytics.md",
     "MSDAIS",
     "Untitled.canvas",
-    "1.1.1. Analytics.md",
-    "1.0.0. Permanent School Notes.md",
     "REPOSITORY",
     "Untitled.md",
     "Descriptive Analytics Techniques.md",
     "Types of Data Analysis.md",
-    "Population Mean.md",
-    "Sample Mean.md",
     "Types of Mean.md",
     "Metrics Constituting Measures of Position.md",
-    "Types of Aggregation.md",
-    "Types of Variable.md",
-    "Dataset Concepts.md",
-    "Observation.md",
-    "Percentile.md",
-    "Categorical Variable.md",
-    "Descriptive Analytics.md",
-    "Data Analysis.md",
-    "Information.md",
-    "Median.md",
-    "Datum.md",
-    "Dataset.md",
     "NOTES"
   ]
 }

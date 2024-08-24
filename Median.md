@@ -1,6 +1,6 @@
 #111ANLY 
-Central-most value in a variable; 50th percentile.
+A measure of position showing the central-most value; 50th percentile.
 
 * Background
-	* [[Variable]]
+	* [[Measures of Position]]
 	* [[Percentile]]

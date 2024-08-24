@@ -1,8 +1,7 @@
 #111ANLY 
-Mean of a variable that represents a population
+Mean of values that represents a population
 *μ*
 
 * Background
 	* [[Mean]]
-	* [[Variable]]
 	* [[Population]]
