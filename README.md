@@ -41,8 +41,6 @@ Say that a student is taking two classes: Analytics (ANLY) and Database Manageme
 
 If the student uses Obsidian.md, they can create separate notes for each concept taught in these classes and link them together. Links allow one to see connections between ideas, and breaking notes into concepts lets one combine knowledge gained about a concept from multiple classes. So, instead of having separate entries for "Dataset" in an ANLY notes file and a DBMS notes file, they can refer to a single note "Dataset" and add all knowledge into it.
 
-![image](https://github.com/user-attachments/assets/7e756127-7e76-479b-a0ca-1bf97dc397fb)
-
 One can reintroduce the structure of notes separated by class through embedding. Embedding allows one to see the contents of one note within another note, which lets us embed all concepts related to a class into a note dedicated to a class. Further, the concepts can be embedded in multiple class files, and updating the embedded note will update its contents across files.
 
 The biggest advantages to Obsidian.md compared to traditional note-taking are that it allows one to see and form connections between ideas and to more easily consolidate their knowledge on a subject, regardless of where and when they learned something.
