@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a58d99fff829a200",
+        "id": "59c600f5d940581a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a758ccf06417afb",
+            "id": "dafd68b76accef70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stats 1.md"
+              }
             }
           }
         ],
@@ -140,37 +142,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a758ccf06417afb",
+  "active": "2669cfd9249a09ef",
   "lastOpenFiles": [
-    "Variance.md",
+    "Stats 1.md",
+    "1.3.1. Business Statistics.md",
+    "Accessing Plugins in R-Commander.md",
+    "Accessing R-Commander via R.md",
+    "Double-Blind Study.md",
+    "Blind Study.md",
+    "Placebo.md",
+    "Blocking.md",
+    "Replicability.md",
+    "Randomization.md",
+    "Cluster Random Sampling.md",
+    "Stratified Random Sampling.md",
+    "Simple Random Sampling.md",
+    "Methods of Representative Sampling.md",
+    "Representative Sample.md",
+    "Inference.md",
+    "Exploratory Analysis.md",
     "Variable.md",
-    "1.1.1. Analytics.md",
-    "Metrics Constituting Measures of Spread.md",
-    "Measures of Spread.md",
-    "Percentile.md",
-    "Median.md",
-    "Population Mean.md",
-    "Measures of Position.md",
-    "Sample Mean.md",
-    "Mean.md",
-    "README.md",
-    "Population Variance.md",
-    "Sample Variance.md",
-    "Types of Variance.md",
-    "1.0.0. Permanent School Notes.md",
-    "1.3.2. Optimization for Business Analytics.md",
-    "2.3.2. Optimization for Business Analytics.md",
-    "2.3.1. Business Statistics.md",
-    "1.1.3. Database Management Systems.md",
-    "1.1.2. Computing for Data Analytics.md",
-    "MSDAIS",
+    "Sample.md",
+    "Census.md",
+    "Anecdotal Evidence.md",
+    "Generalizability.md",
+    "Independence.md",
+    "Causation.md",
+    "Association.md",
+    "Observational Study.md",
     "Untitled.canvas",
+    "Pasted image 20240824150136.png",
+    "Pasted image 20240824145700.png",
+    "Pasted image 20240824145501.png",
+    "Pasted image 20240824144131.png",
+    "Pasted image 20240824143905.png",
+    "Pasted image 20240824141605.png",
+    "MSDAIS",
     "REPOSITORY",
-    "Untitled.md",
-    "Descriptive Analytics Techniques.md",
-    "Types of Data Analysis.md",
-    "Types of Mean.md",
-    "Metrics Constituting Measures of Position.md",
     "NOTES"
   ]
 }

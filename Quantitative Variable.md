@@ -1,4 +1,4 @@
-#111ANLY 
+#111ANLY #131STAT 
 A numeric variable that is appropriate to do all forms of aggregation on.
 
 * Background

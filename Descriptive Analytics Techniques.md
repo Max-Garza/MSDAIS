@@ -1,10 +1,21 @@
 #BRIDGE #111ANLY 
+Aggregation
 Data Visualization
-Random Outliers
-Detect Outliers
-Handle Missing Data
-Text Mining
-Vectorization
+Correlation
+Outlier Identification
+~~Text Mining~~
+~~Vectorization~~
 
 * Background
 	* [[Descriptive Analytics]]
+	* [[Aggregation]]
+	* [[Data Visualization]]
+	* [[Correlation]]
+	* [[Outlier Identification]]
+
+#131STAT 
+A sample consisting of the entire population
+
+- Background
+	- [[Sample]]
+	- [[Population]]
