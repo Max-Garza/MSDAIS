@@ -11,7 +11,7 @@
             "id": "dafd68b76accef70",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "non",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stats 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,34 +141,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2669cfd9249a09ef",
+  "active": "dafd68b76accef70",
   "lastOpenFiles": [
-    "Stats 1.md",
-    "1.3.1. Business Statistics.md",
-    "Accessing Plugins in R-Commander.md",
-    "Accessing R-Commander via R.md",
-    "Double-Blind Study.md",
-    "Blind Study.md",
-    "Placebo.md",
-    "Blocking.md",
-    "Replicability.md",
-    "Randomization.md",
-    "Cluster Random Sampling.md",
-    "Stratified Random Sampling.md",
-    "Simple Random Sampling.md",
-    "Methods of Representative Sampling.md",
-    "Representative Sample.md",
-    "Inference.md",
-    "Exploratory Analysis.md",
-    "Variable.md",
-    "Sample.md",
-    "Census.md",
-    "Anecdotal Evidence.md",
-    "Generalizability.md",
-    "Independence.md",
-    "Causation.md",
-    "Association.md",
-    "Observational Study.md",
+    "Diagnostic Analytics.md",
+    "1.1.1. Analytics.md",
+    "Non-Linear Function.md",
+    "List of Regression Metrics.md",
+    "P-value.md",
+    "Forms of Hypothesis Test.md",
+    "Confidence Interval.md",
+    "Coefficient of Determination.md",
+    "Linear Regression.md",
+    "Adjusted r2.md",
+    "Correlation Coefficient.md",
+    "Predictive Analytics.md",
+    "Statistical Modeling.md",
+    "Multiple Regression.md",
+    "Simple Regression.md",
+    "Types of Regression.md",
+    "Residual.md",
+    "Various Regression Models.md",
+    "Regression.md",
+    "Forms of Supervised Machine Learning.md",
+    "Machine Learning.md",
+    "Elbow Method.md",
+    "Pasted image 20240902000045.png",
+    "WCSS.md",
+    "K-Means Clustering.md",
+    "Dendrogram.md",
+    "Pasted image 20240901234732.png",
+    "Hierarchical Clustering.md",
     "Untitled.canvas",
     "Pasted image 20240824150136.png",
     "Pasted image 20240824145700.png",

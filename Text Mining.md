@@ -1,0 +1,2 @@
+#111ANLY 
+The process of converting text data into useable, structured data in form of numeric representations of text contents
