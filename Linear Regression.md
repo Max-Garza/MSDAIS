@@ -12,6 +12,8 @@ If performed via statistical modeling, one gets the following metrics:
 - P-values
 - Confidence Intervals
 
+Can work with unstandardized variables and a mix of categorical and quantitative variables, though categorical ones must be dummy-encoded
+
 - Background
 	- [[Regression]]
 	- [[Coefficient]]
@@ -21,3 +23,7 @@ If performed via statistical modeling, one gets the following metrics:
 	- [[F-Statistic]]
 	- [[P-value]]
 	- [[Confidence Interval]]
+	- [[Standardization]]
+	- [[Categorical Variable]]
+	- [[Quantitative Variable]]
+	- [[Dummy-Encoding]]

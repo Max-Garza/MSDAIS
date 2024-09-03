@@ -3,6 +3,7 @@ Quantitative
 Categorical
 Random Variable
 Explanatory Variable
+Time-Series Data
 
 * Background
 	* [[Datum]]
@@ -11,3 +12,4 @@ Explanatory Variable
 	* [[Categorical Variable]]
 	* [[Random Variable]]
 	* [[Explanatory Variable]]
+	* [[Time-Series Data]]
