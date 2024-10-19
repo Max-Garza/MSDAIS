@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Aggregation
 Data Visualization
 Correlation

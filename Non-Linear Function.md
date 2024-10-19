@@ -1,4 +1,3 @@
-#132OPTZ 
 A function that, when graphed, does not produce a straight line and cannot be separated into multiple linear functions.
 
 Examples

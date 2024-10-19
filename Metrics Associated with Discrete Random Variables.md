@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Expected Value
 Variability
 

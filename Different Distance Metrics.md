@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Euclidean Distance
 Jaccard's Coefficient
 

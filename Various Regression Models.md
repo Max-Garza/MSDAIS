@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #123MACH 
 Linear Regression
 Decision Tree Regressor
 Random Forest Regressor

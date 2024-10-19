@@ -1,0 +1,1 @@
+A claim about what will happen in the outcome of a study

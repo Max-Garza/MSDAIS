@@ -1,4 +1,3 @@
-#111ANLY 
 A clustering method that operates as follows:
 - Randomly set *k* centroids (points to calculate distance metrics from)
 - Calculate distance metrics from the centroids

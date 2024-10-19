@@ -1,4 +1,3 @@
-#BRIDGE #131STAT 
 Regular Categorical Variables
 Ordinal Categorical Variables
 

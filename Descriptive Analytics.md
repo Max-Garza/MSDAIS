@@ -1,4 +1,3 @@
-#111ANLY 
 Data analysis techniques used to describe existing data.
 
 * Background

@@ -1,4 +1,3 @@
-#111ANLY 
 A form of prescriptive analytics closely intertwined with payoffs, probability, and utility. Plot a map of decisions and note the value at the end. The one with the optimal value is the decision to be selected.
 
 ![A diagram of a company

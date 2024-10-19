@@ -1,4 +1,4 @@
-#PROGRAM #131STAT 
+#PROGRAM
 - "Tools"
 - "Load Rcmdr plug-in(s)..."
 - Select relevant plugin

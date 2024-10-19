@@ -1,4 +1,3 @@
-#111ANLY #122FORC
 A form of predictive analytics that works specifically with time-series data as an explanatory variable, analyzing the impact the passage of time has on a response variable and extrapolating that value into the future
 
 Typically, the process involves:

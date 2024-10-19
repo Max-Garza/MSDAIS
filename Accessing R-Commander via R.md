@@ -1,4 +1,4 @@
-#PROGRAM #131STAT 
+#PROGRAM
 ```R
 library("Rcmdr")
 ```

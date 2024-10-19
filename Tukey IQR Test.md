@@ -1,4 +1,3 @@
-#111ANLY 
 Method of outlier identification that states *x* is an outlier if:
 
 $$x >= q_3 + 1.5(q_3-q_1)$$

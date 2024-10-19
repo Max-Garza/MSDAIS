@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Single Linkage
 Complete Linkage
 Group Average Linkage

@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #132OPTZ 
 Optimization
 Payoff Tables
 Utility Theory

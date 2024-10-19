@@ -1,4 +1,3 @@
-#111ANLY #122FORC 
 The process of breaking down - "decomposing" - how the response variable in a forecasting problem is affected by changes in the time-series data. Decomposition will show the following information:
 - Horizontal Pattern (R)
 - Trend Pattern (T)

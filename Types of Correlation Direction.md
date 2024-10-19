@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Positive Correlation
 Negative Correlation
 

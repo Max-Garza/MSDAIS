@@ -1,4 +1,3 @@
-#111ANLY 
 Situation where no value is present in a datum slot. Can be deleted or imputed
 
 * Background

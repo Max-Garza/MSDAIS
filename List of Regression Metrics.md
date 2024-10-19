@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #123MACH 
 Mean Error
 Mean Absolute Errors
 Mean Squared Errors

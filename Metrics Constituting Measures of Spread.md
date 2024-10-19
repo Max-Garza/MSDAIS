@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Variance
 Standard Deviation
 Interquartile Range

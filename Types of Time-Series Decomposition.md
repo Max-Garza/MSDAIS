@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #122FORC 
 Additive Decomposition
 Multiplicative Decomposition
 

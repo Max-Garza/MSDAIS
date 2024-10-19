@@ -1,8 +1,9 @@
-#111ANLY #123MACH 
 A regression model that creates a linear function that fits the middle of the given datapoints.
 
 $$y = m_{1}x_{1} + m_{2}x_{2} ... + b$$
-The *m* coefficients and *b* intercept are optimized by minimizing residuals
+The *m* coefficients and *b* intercept are optimized by minimizing the sum of the squared residuals
+
+Assumes that *x* and *y* are linearly related and that residuals follow a normal distribution
 
 If performed via statistical modeling, one gets the following metrics:
 - r2
@@ -27,3 +28,4 @@ Can work with unstandardized variables and a mix of categorical and quantitative
 	- [[Categorical Variable]]
 	- [[Quantitative Variable]]
 	- [[Dummy-Encoding]]
+	- [[Normal Distribution]]

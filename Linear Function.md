@@ -1,4 +1,3 @@
-#132OPTZ 
 A function that, when graphed, produces a line with a constant slope. If there are multiple variables included and thus no constant slope is produced, then check each variable and its coefficient separately. If all produce a line with a constant slope, then the function is linear.
 
 Examples

@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Hierarchical Clustering
 K-Means Clustering
 

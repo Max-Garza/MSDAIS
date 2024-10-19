@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Tukey IQR Test
 Kernel Density Estimation
 

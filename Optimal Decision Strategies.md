@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 If no probabilities:
 - Maxi-Min
 - Maxi-Max

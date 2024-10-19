@@ -1,4 +1,3 @@
-#BRIDGE #131STAT 
 Treatment
 Control
 

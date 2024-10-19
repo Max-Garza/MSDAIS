@@ -1,4 +1,3 @@
-#111ANLY 
 Mean of values that represents a population
 *μ*
 

@@ -1,0 +1,26 @@
+- Document and verify business rules
+- Use proper naming conventions for entities, attributes, and relationships
+- Reduce entities to 3NF
+- Ensure attributes have only one value per observation
+- Document attribute defaults, constraints, synonyms, and aliases
+- Ensure relationships define the participants and manner of the relationship are documented clearly
+- Make sure that the ERD, and thus the database, uses the smallest amount of data possible
+
+- Background
+	- [[Data Modeling]]
+	- [[Business Rules]]
+	- [[Entity]]
+	- [[Variable]]
+	- [[Relationship]]
+	- [[Entity Naming Conventions]]
+	- [[Attribute Naming Conventions]]
+	- [[Relationship Naming Conventions]]
+	- [[Third Normal Form]]
+	- [[Observation]]
+	- [[Default]]
+	- [[SQL Constraint]]
+	- [[Relationship Participants]]
+	- [[Entity Relationship Diagram]]
+	- [[Database]]
+	- [[Synonym (SQL)]]
+	- [[Alias]]

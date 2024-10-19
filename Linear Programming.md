@@ -1,4 +1,3 @@
-#111ANLY #132OPTZ 
 A type of optimization problem that contains constraints and objective functions that are linear functions. All variables must be continuous
 
 - Background

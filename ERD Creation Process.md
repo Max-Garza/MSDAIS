@@ -1,0 +1,15 @@
+- Understand organization operations
+- Understand business rules
+- Identify entities and their relationships
+- Develop the initial ERD
+- Identify attributes, foreign keys, and primary keys
+- Revise and review the ERD
+
+- Background
+	- [[Business Rules]]
+	- [[Entity]]
+	- [[Relationship]]
+	- [[Entity Relationship Diagram]]
+	- [[Variable]]
+	- [[Foreign Key]]
+	- [[Primary Key]]

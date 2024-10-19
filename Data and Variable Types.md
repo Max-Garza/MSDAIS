@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #131STAT 
 Quantitative
 Categorical
 Random Variable

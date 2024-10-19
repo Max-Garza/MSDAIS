@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY #122FORC 
 Autoregressive Models
 ARIMA
 Holt's Method

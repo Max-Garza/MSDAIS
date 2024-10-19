@@ -1,0 +1,13 @@
+- FOREIGN KEY
+- NOT NULL
+- UNIQUE
+- DEFAULT
+- CHECK
+
+- Background
+	- [[SQL Constraint]]
+	- [[FOREIGN KEY (SQL)]]
+	- [[NOT NULL (SQL)]]
+	- [[UNIQUE (SQL)]]
+	- [[DEFAULT (SQL)]]
+	- [[CHECK (SQL)]]

@@ -1,5 +1,4 @@
 #CONTAINER
-# MSDAIS
 ## DESCRIPTION
 A collection of .md files documenting every concept taught in Texas State University's MS Data Analytics and Information Systems program circa Fall 2024.
 
@@ -16,7 +15,7 @@ Notes may not accurately represent the current MSDAIS workload or information ta
 
 ## FILE CONVENTIONS
 A prefix containing a string of three numbers use each number to define an attribute about the file. The first number denotes the family, the second denotes the semester a class was taken, and the third helps alphabetize the files by course name within a semester.
-* 1.X.X. Family - Final notes taken for a concept or class
+* 1.X.X. Family - Notes taken for a concept or class
   * 1.0.0. All Notes - A collection of notes across all classes
   * 1.1.1. Analytics - A collection of notes relevant to Analytics
   * 1.1.2. Computing for Data Analytics - A collection of notes relevant to Computing for Data Analytics
@@ -26,9 +25,7 @@ A prefix containing a string of three numbers use each number to define an attri
   * 1.2.3. Machine Learning - A collection of notes relevant to Machine Learning
   * 1.3.1. Business Statistics - A collection of notes relevant to Business Statistics
   * 1.3.2. Optimization for Business Analytics - A collection of notes relevant to Optimization for Business Analytics
-* 2.X.X. Family - Temporary notes taken during classes or private research
-  * 2.3.1. Business Statistics - A collection of temporary notes taken during Business Statistics
-  * 2.3.2. Optimization - A collection of temporary notes taken during Optimization for Business Analytics
+* 2.X.X. Family - Articles written by the creator of these notes.
  
 Notes with prefixes are collections of smaller, conceptual notes. Conceptual notes have no prefix.
 
@@ -47,6 +44,6 @@ One can reintroduce the structure of notes separated by class through embedding.
 The biggest advantages to Obsidian.md compared to traditional note-taking are that it allows one to see and form connections between ideas and to more easily consolidate their knowledge on a subject, regardless of where and when they learned something.
 
 ## OBSIDIAN.MD LINK STRUCTURE
-All files in the 1.X.X. family have conceptual notes embedded within them. Meanwhile, files in the 2.X.X. family may contain links or embeds, but they are unimportant as they are temporary.
+All files in the 1.X.X. family have conceptual notes embedded within them. Meanwhile, files in the 2.X.X. family may contain links to external sources but will not link to other notes collected here.
 
 Conceptual notes link between one another. Typically, links are made to concepts that must be known to understand the note at hand. For instance, the concept "Butterfly Lifecycle" requires one to understand what a chrysalis is, so a link is made to "Chrysalis" within "Butterfly Life Cycle."

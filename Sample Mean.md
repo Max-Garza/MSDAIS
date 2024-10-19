@@ -1,4 +1,3 @@
-#111ANLY 
 Mean that represents a sample.
 *x̄*
 

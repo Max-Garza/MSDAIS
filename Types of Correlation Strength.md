@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Weak Correlation
 Strong Correlation
 No Correlation

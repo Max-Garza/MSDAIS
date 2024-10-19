@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 t value
 P value
 

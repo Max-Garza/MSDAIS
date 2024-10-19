@@ -1,0 +1,12 @@
+- Value does not change over time
+- All tuples have a unique value
+- Uses the minimal number of attributes
+- Values are under the organization's control
+- Value is not confidential
+- No null values
+
+- Background
+	- [[Primary Key]]
+	- [[Observation]]
+	- [[Variable]]
+	- [[Null Value]]

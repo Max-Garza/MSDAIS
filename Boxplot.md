@@ -1,4 +1,3 @@
-#111ANLY 
 A form of univariate distribution that shows spread and outliers. Typically, five key statistics are shown:
 * Median
 * 75th percentile

@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY 
 Missing Completely at Random
 Missing at Random
 Missing Not at Random

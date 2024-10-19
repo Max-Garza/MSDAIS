@@ -1,4 +1,3 @@
-#BRIDGE #131STAT 
 Simple Random Sampling
 Stratified Random Sampling
 Cluster Random Sampling

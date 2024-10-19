@@ -1,4 +1,3 @@
-#BRIDGE #111ANLY
 Sample Standard Deviation
 Population Standard Deviation
 

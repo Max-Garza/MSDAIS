@@ -1,4 +1,3 @@
-#111ANLY 
 A type of variable whose values depend on random events. Can be discrete or continuous
 
 *X* = Random variable
