@@ -1,4 +1,4 @@
-A type of variable whose values depend on random events. Can be discrete or continuous
+A type of variable whose values depend on random events. Can be discrete or continuous. Appear often in simulation
 
 *X* = Random variable
 *x* = Value in a random variable
@@ -7,3 +7,4 @@ A type of variable whose values depend on random events. Can be discrete or cont
 	- [[Variable]]
 	- [[Discrete Variable or Data]]
 	- [[Continuous Variable or Data]]
+	- [[Simulation]]

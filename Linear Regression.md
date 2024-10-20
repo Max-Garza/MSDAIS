@@ -13,7 +13,9 @@ If performed via statistical modeling, one gets the following metrics:
 - P-values
 - Confidence Intervals
 
-Can work with unstandardized variables and a mix of categorical and quantitative variables, though categorical ones must be dummy-encoded
+Can work with unstandardized variables and a mix of categorical and quantitative variables, though categorical ones must be dummy-encoded.
+
+Can be used for forecasting. Can be made to work with seasonal data by doing a linear forecast, finding the ratio between each point and its estimate, take the average of these ratios for a period, and multiply the forecasts by the resulting weight.
 
 - Background
 	- [[Regression]]
@@ -29,3 +31,4 @@ Can work with unstandardized variables and a mix of categorical and quantitative
 	- [[Quantitative Variable]]
 	- [[Dummy-Encoding]]
 	- [[Normal Distribution]]
+	- [[Forecasting]]
