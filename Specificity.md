@@ -1,0 +1,1 @@
+Score that shows how many of the actual negative cases were predicted as negative

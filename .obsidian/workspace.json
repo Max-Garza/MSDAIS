@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12e91458e64f5190",
+        "id": "a00df48b2e4e6b24",
         "type": "tabs",
         "children": [
           {
-            "id": "d701d8400c617b21",
+            "id": "0748b9cb3fb55e43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.2.2. Forecasting and Simulation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.2.2. Forecasting and Simulation"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CONTAINER",
+                "query": "untitled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8e234c45d7dac764",
@@ -176,34 +171,35 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d701d8400c617b21",
+  "active": "0748b9cb3fb55e43",
   "lastOpenFiles": [
-    "SMORE Plot.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "LINEAR PROGRAMMING DUALITY.md",
+    "Mean Absolute Percentage Error.md",
+    "1.2.3. Machine Learning.md",
+    "Recurrent Neural Network.md",
+    "Convolutional Neural Network.md",
+    "Association Rules.md",
+    "Collaborative Filtering.md",
+    "List of Recommendation Systems.md",
+    "Recommendation System.md",
+    "Distance Metric.md",
+    "Semi-Supervised Machine Learning.md",
+    "Unsupervised Machine Learning.md",
+    "PySpark.md",
+    "Multilayer Perceptron Classifier.md",
+    "Linear Discriminant Analysis.md",
+    "Support Vector Machines Classifier.md",
+    "Convert to a Normal Distribution.md",
+    "Gaussian Naive-Bayes.md",
+    "Multinomial Naive-Bayes.md",
+    "Discrete Variable or Data.md",
+    "List of Naive-Bayes Models.md",
+    "Classification.md",
+    "Naive-Bayes.md",
+    "K-Nearest Neighbors Classifier.md",
     "Pasted image 20241020143832.png",
-    "1.2.2. Forecasting and Simulation.md",
-    "StatFit.md",
-    "Simio.md",
-    "Monte Carlo Simulation.md",
-    "Functional Specification.md",
-    "Simulation Advantages and Disadvantages.md",
-    "Simulation Process.md",
-    "Random Variable.md",
-    "Object-Oriented Simulation.md",
-    "Process-Based Simulation.md",
-    "Events-Based Simulation.md",
-    "Discrete vs Continuous Systems.md",
-    "Discrete Simulation Paradigms.md",
-    "Static vs Dynamic Simulation.md",
-    "Stochastic vs Deterministic Simulation.md",
-    "Ways of Modeling Systems.md",
-    "Simulation vs Queueing Theory.md",
-    "Jackson Network.md",
-    "Non-Preemptive Priority Queue.md",
-    "Preemptive Priority Queue.md",
-    "Types of Priority Queue.md",
-    "Priority Queue.md",
-    "Probability of Waiting Longer than Some Time In a System.md",
-    "Systemic Analysis in Simulation.md",
     "Pasted image 20241019184054.png",
     "Pasted image 20241019183929.png",
     "Pasted image 20241019183858.png",
