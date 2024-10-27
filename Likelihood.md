@@ -1,1 +1,4 @@
-The percent chance that a value exhibits a given probability distribution if some outcome is trued
+The percent chance that a value exhibits a given probability distribution if some outcome is true
+
+- Background
+	- [[Probability Distribution]]

@@ -1,1 +1,5 @@
-Method of outlier identification where *x* is an outlier if:
+Method of outlier identification
+
+- Background
+	- [[Kernel]]
+	- [[Outlier]]

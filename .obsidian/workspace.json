@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a00df48b2e4e6b24",
+        "id": "27d572a1881cb35b",
         "type": "tabs",
         "children": [
           {
-            "id": "0748b9cb3fb55e43",
+            "id": "915ae50767c31e53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.1.2. Computing for Data Analytics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.1.2. Computing for Data Analytics"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untitled",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "8e234c45d7dac764",
@@ -171,34 +175,35 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "0748b9cb3fb55e43",
+  "active": "915ae50767c31e53",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "LINEAR PROGRAMMING DUALITY.md",
-    "Mean Absolute Percentage Error.md",
-    "1.2.3. Machine Learning.md",
-    "Recurrent Neural Network.md",
-    "Convolutional Neural Network.md",
-    "Association Rules.md",
-    "Collaborative Filtering.md",
-    "List of Recommendation Systems.md",
-    "Recommendation System.md",
-    "Distance Metric.md",
-    "Semi-Supervised Machine Learning.md",
-    "Unsupervised Machine Learning.md",
-    "PySpark.md",
-    "Multilayer Perceptron Classifier.md",
-    "Linear Discriminant Analysis.md",
-    "Support Vector Machines Classifier.md",
-    "Convert to a Normal Distribution.md",
-    "Gaussian Naive-Bayes.md",
-    "Multinomial Naive-Bayes.md",
-    "Discrete Variable or Data.md",
-    "List of Naive-Bayes Models.md",
-    "Classification.md",
-    "Naive-Bayes.md",
-    "K-Nearest Neighbors Classifier.md",
+    "Common Pandas Commands.md",
+    "Statistical Summary.md",
+    "1.1.2. Computing for Data Analytics.md",
+    "Series.md",
+    "Dataframe.md",
+    "Pandas Objects.md",
+    "Pandas.md",
+    "Package.md",
+    "Dictionary.md",
+    "Loop.md",
+    "List.md",
+    "Python Logic Statements.md",
+    "Python Conditional Statements.md",
+    "User Input in Python.md",
+    "String.md",
+    "Python Native Math Operators.md",
+    "Variable (Python).md",
+    "Comment.md",
+    "Python.md",
+    "Types of Python Commands.md",
+    "Method.md",
+    "Function.md",
+    "Printing.md",
+    "Jupyter Notebook.md",
+    "Python Script.md",
+    "Methods by which Null Values Appear.md",
+    "Pasted image 20241009213839.png",
     "Pasted image 20241020143832.png",
     "Pasted image 20241019184054.png",
     "Pasted image 20241019183929.png",
@@ -208,7 +213,6 @@
     "Pasted image 20241019183538.png",
     "Pasted image 20241019183408.png",
     "Pasted image 20241019183400.png",
-    "Pasted image 20241019163500.png",
     "SAP BW 4",
     "Allowable Increase",
     "Excalidraw",
