@@ -15,7 +15,7 @@ Retrieve probability of >= x values
 "Mean", "Variable Values", and "Upper Tail"
 ```
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Accessing R-Commander via R]]
 	- [[Accessing Plugins in R-Commander]]
 	- [[Mean]]

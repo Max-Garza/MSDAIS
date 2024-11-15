@@ -1,0 +1,1 @@
+The number of successes divided by the number of failures

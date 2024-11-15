@@ -8,6 +8,6 @@ Get the probability that x is < or >= an input
 "Variable Values", "Minimum", "Maximum", and tail direction
 ```
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Accessing R-Commander via R]]
 	- [[Accessing Plugins in R-Commander]]

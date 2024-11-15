@@ -1,21 +1,15 @@
-Probability Distribution
-
-- Background
-	- [[Distribution]]
-	- [[Probability Distribution]]
-
 Binomial Distribution
 Bernoulli Distribution
 Poisson Distribution
 Uniform Distribution
-Gaussian Distribution
+Normal Distribution
 Exponential Distribution
 
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Binomial Distribution]]
 	- [[Bernoulli Distribution]]
 	- [[Poisson Distribution]]
 	- [[Uniform Distribution]]
-	- [[Gaussian Distribution]]
+	- [[Normal Distribution]]
 	- [[Exponential Distribution]]

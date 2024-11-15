@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27d572a1881cb35b",
+        "id": "91ba4c64b3f493e9",
         "type": "tabs",
         "children": [
           {
-            "id": "915ae50767c31e53",
+            "id": "e56c22641e9a9807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1.2. Computing for Data Analytics.md",
+                "file": "1.3.1. Business Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.2. Computing for Data Analytics"
+              "title": "1.3.1. Business Statistics"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "likelihood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e234c45d7dac764",
@@ -175,34 +177,38 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "915ae50767c31e53",
+  "active": "e56c22641e9a9807",
   "lastOpenFiles": [
-    "Common Pandas Commands.md",
-    "Statistical Summary.md",
-    "1.1.2. Computing for Data Analytics.md",
-    "Series.md",
-    "Dataframe.md",
-    "Pandas Objects.md",
-    "Pandas.md",
-    "Package.md",
-    "Dictionary.md",
-    "Loop.md",
-    "List.md",
-    "Python Logic Statements.md",
-    "Python Conditional Statements.md",
-    "User Input in Python.md",
-    "String.md",
-    "Python Native Math Operators.md",
-    "Variable (Python).md",
-    "Comment.md",
-    "Python.md",
-    "Types of Python Commands.md",
-    "Method.md",
-    "Function.md",
-    "Printing.md",
-    "Jupyter Notebook.md",
-    "Python Script.md",
-    "Methods by which Null Values Appear.md",
+    "Logistic Regression.md",
+    "1.3.1. Business Statistics.md",
+    "Likelihood.md",
+    "Odds.md",
+    "Representative Sample.md",
+    "Z-Test.md",
+    "1.2.3. Machine Learning.md",
+    "Variance Inflation Factor.md",
+    "Coefficient of Determination.md",
+    "Linear Regression Assumptions.md",
+    "F-Statistic.md",
+    "Categorical Variable.md",
+    "Dummy-Encoding.md",
+    "Unimodal.md",
+    "Uniform Distribution.md",
+    "Types of Distribution.md",
+    "Skew.md",
+    "Probability Distribution.md",
+    "Probability Density Function.md",
+    "Poisson Distribution.md",
+    "Normal Distribution.md",
+    "Multimodal.md",
+    "Modality.md",
+    "Exponential Distribution.md",
+    "Descriptors of Distribution Shape.md",
+    "Cumulative Distribution Function.md",
+    "Pasted image 20241114202657.png",
+    "Pasted image 20241114202234.png",
+    "Pasted Image 20241104191621_175.png",
+    "Excalidraw",
     "Pasted image 20241009213839.png",
     "Pasted image 20241020143832.png",
     "Pasted image 20241019184054.png",
@@ -210,12 +216,8 @@
     "Pasted image 20241019183858.png",
     "Pasted image 20241019183840.png",
     "Pasted image 20241019183707.png",
-    "Pasted image 20241019183538.png",
-    "Pasted image 20241019183408.png",
-    "Pasted image 20241019183400.png",
     "SAP BW 4",
     "Allowable Increase",
-    "Excalidraw",
     "Untitled.canvas",
     "MSDAIS",
     "REPOSITORY",

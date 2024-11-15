@@ -3,7 +3,7 @@ Uniform
 Skew
 
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Normal Distribution]]
 	- [[Uniform Distribution]]
 	- [[Skew]]

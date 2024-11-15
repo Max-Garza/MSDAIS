@@ -18,7 +18,7 @@ Find the <x or >=x at the Xth percentile
 ```
 
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Accessing R-Commander via R]]
 	- [[Accessing Plugins in R-Commander]]]]
 	* [[Mean]]

@@ -13,6 +13,6 @@ Retrieve probability of <= x values
 "Variable Value(s)" x, "Binomial Trials", and "Probability of Success"; "Lower Tail"
 ```
 - Background
-	- [[Distribution]]
+	- [[Probability Distribution]]
 	- [[Accessing R-Commander via R]]
 	- [[Accessing Plugins in R-Commander]]
