@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91ba4c64b3f493e9",
+        "id": "2b6f5f46e7962903",
         "type": "tabs",
         "children": [
           {
-            "id": "e56c22641e9a9807",
+            "id": "0d559028080d1c80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1.3.2. Optimization for Business Analytics.md",
-                "mode": "source",
-                "source": false
+                "file": "In-Class Materials/Analytics/PowerPoints/Lecture 1 Handout.pdf"
               },
-              "icon": "lucide-file",
-              "title": "1.3.2. Optimization for Business Analytics"
+              "icon": "lucide-file-text",
+              "title": "Lecture 1 Handout"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "likelihood",
+                "query": "dRAWING",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "8e234c45d7dac764",
@@ -157,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,13 +173,27 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "e56c22641e9a9807",
+  "active": "0d559028080d1c80",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-21 11.43.55.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "1.1.3. Database Management Systems.md",
+    "Third Normal Form.md",
+    "In-Class Materials/Database Management Systems/PowerPoints/~$Database_ch06.pptx",
+    "Second Normal Form.md",
+    "First Normal Form.md",
+    "In-Class Materials/Database Management Systems/PowerPoints/~$Database_ch03 (1).pptx",
+    "In-Class Materials/Database Management Systems/PowerPoints/~$Database_ch02 (1).pptx",
+    "In-Class Materials/Database Management Systems/PowerPoints/~$Database_ch01 (1).pptx",
+    "Datum.md",
+    "1.1.1. Analytics.md",
+    "1.0.0. Permanent School Notes.md",
+    "1.3.2. Optimization for Business Analytics.md",
     "In-Class Materials/Optimization/ANLY 5332 -- Week-13 -- Decision, Stochastic, Robust.pptx",
     "Negative Binomial Distribution.md",
     "Geometric Distribution.md",
     "Types of Distribution.md",
-    "1.3.2. Optimization for Business Analytics.md",
     "Robust Optimization.md",
     "Stochastic Optimization.md",
     "Two-stage stochastic optimization.md",
@@ -196,18 +207,9 @@
     "Event Nodes.md",
     "Decision Nodes.md",
     "Expected Payoff.md",
-    "Bayes' Decision Rule.md",
-    "Maximum Likelihood Criteria.md",
-    "List of Decision Making Under Risk Criteria.md",
-    "List of Decision-Making Criteria Under Uncertainty.md",
-    "Decision Making Under Risk.md",
-    "Hurwicz Criteria.md",
-    "Laplace Criteria.md",
-    "Maxi-Min.md",
     "Pasted image 20241114202657.png",
     "Pasted image 20241114202234.png",
     "Pasted Image 20241104191621_175.png",
-    "Excalidraw",
     "Pasted image 20241009213839.png",
     "Pasted image 20241020143832.png",
     "Pasted image 20241019184054.png",
@@ -217,9 +219,7 @@
     "Pasted image 20241019183707.png",
     "SAP BW 4",
     "Allowable Increase",
-    "Untitled.canvas",
     "MSDAIS",
-    "REPOSITORY",
-    "NOTES"
+    "REPOSITORY"
   ]
 }
