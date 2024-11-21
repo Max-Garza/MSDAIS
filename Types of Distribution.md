@@ -4,6 +4,8 @@ Poisson Distribution
 Uniform Distribution
 Normal Distribution
 Exponential Distribution
+Geometric Distribution
+Negative Binomial Distribution
 
 - Background
 	- [[Probability Distribution]]
@@ -13,3 +15,5 @@ Exponential Distribution
 	- [[Uniform Distribution]]
 	- [[Normal Distribution]]
 	- [[Exponential Distribution]]
+	- [[Geometric Distribution]]
+	- [[Negative Binomial Distribution]]

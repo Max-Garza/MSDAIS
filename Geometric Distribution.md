@@ -1,0 +1,1 @@
+Number of trials needed to reach a desired outcome. all trials have same probability of success

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.3.1. Business Statistics.md",
+                "file": "1.3.2. Optimization for Business Analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3.1. Business Statistics"
+              "title": "1.3.2. Optimization for Business Analytics"
             }
           }
         ]
@@ -73,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e234c45d7dac764",
@@ -178,32 +178,32 @@
   },
   "active": "e56c22641e9a9807",
   "lastOpenFiles": [
-    "Logistic Regression.md",
-    "1.3.1. Business Statistics.md",
-    "Likelihood.md",
-    "Odds.md",
-    "Representative Sample.md",
-    "Z-Test.md",
-    "1.2.3. Machine Learning.md",
-    "Variance Inflation Factor.md",
-    "Coefficient of Determination.md",
-    "Linear Regression Assumptions.md",
-    "F-Statistic.md",
-    "Categorical Variable.md",
-    "Dummy-Encoding.md",
-    "Unimodal.md",
-    "Uniform Distribution.md",
+    "In-Class Materials/Optimization/ANLY 5332 -- Week-13 -- Decision, Stochastic, Robust.pptx",
+    "Negative Binomial Distribution.md",
+    "Geometric Distribution.md",
     "Types of Distribution.md",
-    "Skew.md",
-    "Probability Distribution.md",
-    "Probability Density Function.md",
-    "Poisson Distribution.md",
-    "Normal Distribution.md",
-    "Multimodal.md",
-    "Modality.md",
-    "Exponential Distribution.md",
-    "Descriptors of Distribution Shape.md",
-    "Cumulative Distribution Function.md",
+    "1.3.2. Optimization for Business Analytics.md",
+    "Robust Optimization.md",
+    "Stochastic Optimization.md",
+    "Two-stage stochastic optimization.md",
+    "Stochastic vs Deterministic Simulation.md",
+    "Utility Function.md",
+    "Expected Value of Perfect Information.md",
+    "Expected Payoff without Perfect Information.md",
+    "Expected Payoff with Perfect Information.md",
+    "Value of Information Metrics.md",
+    "Value of Information.md",
+    "Event Nodes.md",
+    "Decision Nodes.md",
+    "Expected Payoff.md",
+    "Bayes' Decision Rule.md",
+    "Maximum Likelihood Criteria.md",
+    "List of Decision Making Under Risk Criteria.md",
+    "List of Decision-Making Criteria Under Uncertainty.md",
+    "Decision Making Under Risk.md",
+    "Hurwicz Criteria.md",
+    "Laplace Criteria.md",
+    "Maxi-Min.md",
     "Pasted image 20241114202657.png",
     "Pasted image 20241114202234.png",
     "Pasted Image 20241104191621_175.png",

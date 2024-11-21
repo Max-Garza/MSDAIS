@@ -1,0 +1,1 @@
+Number of trials needed until an event occurs n times
